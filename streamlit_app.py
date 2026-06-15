@@ -18,7 +18,7 @@ PAYER_OPTIONS = {
     "CJ":               {"PAYERACC": "1570097910869500", "TAXCODE": "1800522974"},
     "Santino":          {"PAYERACC": "1570098200832000", "TAXCODE": "1800522974"},
     "Primefood LLC":    {"PAYERACC": "1570075401620100", "TAXCODE": "1800222826"},
-    Cabinet Partners LLC":    {"PAYERACC": "1660030207806800", "TAXCODE": "1200541428"},
+    "Cabinet Partners LLC":    {"PAYERACC": "1660030207806800", "TAXCODE": "1200541428"},
 }
 
 # === Web UI ===
