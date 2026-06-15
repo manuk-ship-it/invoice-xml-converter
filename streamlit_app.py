@@ -12,12 +12,13 @@ def get_text(parent, xpath, ns, default=""):
 # Կազմակերպությունների ցանկ
 PAYER_OPTIONS = {
     "Importante LLC": {"PAYERACC": "1570075735510200", "TAXCODE": "1800232459"},
-    "Fullstreet LLC":   {"PAYERACC": "1570071837240100", "TAXCODE": "1800505444"},
-    "Companeros LLC":  {"PAYERACC": "1570065841128400", "TAXCODE": "1800510675"},
+    "Fullstreet LLC":   {"PAYERACC": "1570079292250300", "TAXCODE": "1800505444"},
+    "Companeros LLC":  {"PAYERACC": "1570083954750400", "TAXCODE": "1800510675"},
     "Westparks LLC":   {"PAYERACC": "1570094754410100", "TAXCODE": "1800520342"},
-    "CJ":               {"PAYERACC": "1570098200832000", "TAXCODE": "1800522974"},
+    "CJ":               {"PAYERACC": "1570097910869500", "TAXCODE": "1800522974"},
     "Santino":          {"PAYERACC": "1570098200832000", "TAXCODE": "1800522974"},
     "Primefood LLC":    {"PAYERACC": "1570075401620100", "TAXCODE": "1800222826"},
+    Cabinet Partners LLC":    {"PAYERACC": "1660030207806800", "TAXCODE": "1200541428"},
 }
 
 # === Web UI ===
