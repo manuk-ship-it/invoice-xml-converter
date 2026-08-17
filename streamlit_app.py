@@ -120,7 +120,7 @@ if uploaded_file:
                     "BENEFICIARY": rbenef,
                     "AMOUNT": f"{tot:.2f}",
                     "CURRENCY": "AMD",
-                    "DETAILS": det
+                    "DETAILS": det,
                     "RECEIVERLEGALSTATUS": "Legal"
                 })
                 docnum_counter += 1
@@ -183,7 +183,7 @@ if uploaded_file:
                 "BENEFICIARY": raw_name,
                 "AMOUNT": amount,
                 "CURRENCY": "AMD",
-                "DETAILS": details
+                "DETAILS": details,
                 "RECEIVERLEGALSTATUS": "Legal"
             })
             docnum_counter += 1
