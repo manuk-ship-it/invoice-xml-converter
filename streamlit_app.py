@@ -121,6 +121,7 @@ if uploaded_file:
                     "AMOUNT": f"{tot:.2f}",
                     "CURRENCY": "AMD",
                     "DETAILS": det
+                    "RECEIVERLEGALSTATUS"="Legal"
                 })
                 docnum_counter += 1
                 processed.append(base)
@@ -183,6 +184,7 @@ if uploaded_file:
                 "AMOUNT": amount,
                 "CURRENCY": "AMD",
                 "DETAILS": details
+                "RECEIVERLEGALSTATUS"="Legal"
             })
             docnum_counter += 1
 
